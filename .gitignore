@@ -1,0 +1,11 @@
+/logs
+/dbs
+/eggs
+/build
+/project.egg-info
+/.vscode
+scrapydweb_settings_v10.py
+setup.py
+
+*.pyc
+
